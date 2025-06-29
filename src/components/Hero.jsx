@@ -18,8 +18,9 @@ function Hero() {
           A data scientist passionate about building real-world AI-powered solutions that create measurable impact.
         </p>
         <a
-          href="/Sparsh_Marwah_Resume.pdf"
-          download
+          href="https://drive.google.com/file/d/1GpQ_OMJtV0H-LoVCG0h0Ts9O4UpOFhuq/view?usp=drive_link"
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-block bg-orange-500 hover:bg-orange-600 text-black font-semibold px-6 py-2 rounded-full transition duration-300"
         >
           Resume
