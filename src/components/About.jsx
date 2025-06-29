@@ -1,5 +1,4 @@
 import React from "react";
-import profileImage from "/Users/sparshmarwah21/sparsh-portfolio/src/assets/profile.jpeg";
 
 function About() {
   return (
@@ -13,7 +12,7 @@ function About() {
         {/* Left - Profile Image */}
         <div className="w-full md:w-1/3 flex justify-center">
           <img
-            src={profileImage}
+            src="/profile.jpeg"
             alt="Sparsh Marwah"
             className="rounded-xl border-4 border-orange-500 w-full max-w-sm object-cover shadow-lg"
           />
